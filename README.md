@@ -5,7 +5,7 @@
 # 预训练模型
 - 训练前，需先在release页面中下载ERNIE预训练模型
 - release地址： [https://github.com/BUAA-Umetrip-cooperation/Intention_Classification/releases/download/1.0/pretrained_ERNIE.zip]
-- 文件夹命名为pytrained_ERNIE，文件夹内有三个文件： `bert_config.json
+- 在当前目录下解压，文件夹名为pytrained_ERNIE，文件夹内有三个文件： `bert_config.json
   pytorch_model.bin vocab.txt`
 # LABEL_TO_ID
 - 文件utils/constant.py的LABEL_TO_ID常量，是单级类别与id的对应关系
