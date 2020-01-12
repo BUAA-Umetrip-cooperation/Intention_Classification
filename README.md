@@ -11,7 +11,7 @@
 - 文件utils/constant.py的LABEL_TO_ID常量，是单级类别与id的对应关系
 - `训练前需根据数据情况，修改文件内容`
 # Train
-> `sh train_Grained.sh` 
+> sh train_Grained.sh 
 
 - 部分参数说明：
     -  data_dir：数据集目录
